@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "312998109985",
+    "project_id": "android-app-prueba-c0aae",
+    "storage_bucket": "android-app-prueba-c0aae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312998109985:android:be2f6e622a7d253d399460",
+        "android_client_info": {
+          "package_name": "com.diego.androidappprueba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312998109985-luvi4ufi5b0j8ic72fln0en7s6eitm3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnLe5CfUNem-97lY7rJ92wNFLPvsmbr9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312998109985-luvi4ufi5b0j8ic72fln0en7s6eitm3o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
